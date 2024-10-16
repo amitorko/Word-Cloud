@@ -15,3 +15,4 @@ To set up the project, you'll need to install the necessary dependencies.
 
 ```bash
 npm install react-d3-cloud
+![image](https://github.com/user-attachments/assets/0b8a2426-95e4-455e-a3db-a3619f5b9633)
